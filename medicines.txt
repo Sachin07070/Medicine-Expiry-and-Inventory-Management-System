@@ -1,0 +1,9 @@
+# Medicine Inventory Records (Format: ID,Name,Quantity,Price,ExpiryDate)
+101,Paracetamol,50,2.00,2026-10-25
+102,Amoxicillin 500mg,20,12.50,2027-05-15
+103,Ibuprofen 400mg,8,5.00,2027-02-10
+104,Cough Syrup 100ml,15,45.00,2026-09-30
+105,Cetirizine 10mg,60,3.50,2026-11-05
+106,Azithromycin 500mg,5,22.00,2026-09-15
+107,Metformin 500mg,80,4.00,2027-12-31
+108,Omeprazole 20mg,7,9.00,2027-08-20
